@@ -1,16 +1,55 @@
 ## Hi there 👋
 
 <!--
-**Dileepkumar-44/Dileepkumar-44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**Dileepkumar-44/Dileepkumar-44** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
 -->
+
+I'm **M. Venkata Dileep Kumar**, a **B.Tech Computer Science and Engineering student (2026)** with a strong interest in **Data Analytics, Full Stack Development, and AI applications**. I enjoy building practical projects and turning ideas into working solutions.
+
+- 🔭 I’m currently working on **full-stack and data-driven projects**
+- 🌱 I’m currently learning **Advanced Python, RESTful APIs, SQL, and Data Analytics**
+- 👯 I’m looking to collaborate on **Python, Data Analytics, and Web Development projects**
+- 🤔 I’m looking for help with **improving system design and scalable backend development**
+- 💬 Ask me about **Python, Flask, SQL, Data Analysis, and Full-Stack basics**
+- 📫 How to reach me: **dileep.air44@gmail.com**
+- 😄 Pronouns: **he/him**
+- ⚡ Fun fact: **I enjoy exploring real-world problems through data and code**
+
+---
+
+### 🛠️ Skills & Technologies
+- **Languages:** Python, Java, SQL, JavaScript  
+- **Frontend:** HTML, CSS, ReactJS  
+- **Backend:** Flask, Spring Boot, RESTful APIs  
+- **Databases:** SQLite, MySQL  
+- **Concepts:** Data Analysis, CRUD Operations, MVC, Microservices (Basics)  
+- **Tools:** Git, GitHub, Postman, VS Code  
+
+---
+
+### 📌 Featured Projects
+- **Personal Expense Tracker (Full Stack)**  
+  A Flask + SQLite web application to track daily expenses with full CRUD functionality.  
+  🔗 GitHub | 🔗 Live Demo  
+
+- **Python Data Projects**  
+  Data analysis and preprocessing projects focusing on real-world datasets and insights.  
+
+- **Zomato Clone (Frontend)**  
+  Responsive UI built using HTML, CSS, and JavaScript.
+
+---
+
+### 🎓 Experience & Internships
+- **Data Science Intern – CodTech IT Solutions**  
+  Worked on data analysis, preprocessing, and machine learning models using Python.  
+
+- **Application Developer (Mobile & Web) Intern – Rooman Technologies**  
+  Working on frontend (ReactJS) and backend development with Spring Boot and databases.
+
+---
+
+### 🌐 Connect with Me
+- **LinkedIn:** https://www.linkedin.com/in/mdileepkumar  
+- **GitHub:** https://github.com/Dileepkumar-44
+
