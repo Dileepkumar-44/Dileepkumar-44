@@ -37,6 +37,6 @@ I'm **M. Venkata Dileep Kumar**, a **B.Tech Computer Science and Engineering Gra
 ---
 
 ### 🌐 Connect with Me
-- **LinkedIn:** https://www.linkedin.com/in/mdileepkumar  
-- **Email:**[Email](mailto:dileepkumarmangali44@gmail.com)(mailto:dileepkumarmangali44@gmail.com)
+- **💼 LinkedIn:** https://www.linkedin.com/in/mdileepkumar  
+- **Email:**[✉️](dileepkumarmangali44@gmail.com)(mailto:dileepkumarmangali44@gmail.com)
 
