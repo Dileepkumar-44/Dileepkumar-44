@@ -25,6 +25,7 @@ I'm **M. Venkata Dileep Kumar**, a **B.Tech Computer Science and Engineering Gra
 - **Concepts:** Data Analysis, CRUD Operations, MVC, Microservices (Basics)  
 - **Tools:** Git, GitHub, Postman, VS Code
   
+---
 
 ### 🎓 Experience & Internships
 - **Data Science Intern – CodTech IT Solutions**  
@@ -37,5 +38,5 @@ I'm **M. Venkata Dileep Kumar**, a **B.Tech Computer Science and Engineering Gra
 
 ### 🌐 Connect with Me
 - **LinkedIn:** https://www.linkedin.com/in/mdileepkumar  
-- **GitHub:** https://github.com/Dileepkumar-44
+- **Email:** [Email](mailto:dileepkumarmangali44@gmail.com)
 
