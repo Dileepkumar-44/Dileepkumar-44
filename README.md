@@ -4,14 +4,14 @@
 **Dileepkumar-44/Dileepkumar-44** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
 -->
 
-I'm **M. Venkata Dileep Kumar**, a **B.Tech Computer Science and Engineering student (2026)** with a strong interest in **Data Analytics, Full Stack Development, and AI applications**. I enjoy building practical projects and turning ideas into working solutions.
+I'm **M. Venkata Dileep Kumar**, a **B.Tech Computer Science and Engineering Graduate (2026)** with a strong interest in **Data Analytics, Full Stack Development, and AI applications**. I enjoy building practical projects and turning ideas into working solutions.
 
 - 🔭 I’m currently working on **full-stack and data-driven projects**
 - 🌱 I’m currently learning **Advanced Python, RESTful APIs, SQL, and Data Analytics**
 - 👯 I’m looking to collaborate on **Python, Data Analytics, and Web Development projects**
 - 🤔 I’m looking for help with **improving system design and scalable backend development**
 - 💬 Ask me about **Python, Flask, SQL, Data Analysis, and Full-Stack basics**
-- 📫 How to reach me: **dileep.air44@gmail.com**
+- 📫 How to reach me: **dileepkumarmangali44@gmail.com**
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: **I enjoy exploring real-world problems through data and code**
 
