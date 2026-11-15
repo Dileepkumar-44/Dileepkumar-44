@@ -23,22 +23,8 @@ I'm **M. Venkata Dileep Kumar**, a **B.Tech Computer Science and Engineering Gra
 - **Backend:** Flask, Spring Boot, RESTful APIs  
 - **Databases:** SQLite, MySQL  
 - **Concepts:** Data Analysis, CRUD Operations, MVC, Microservices (Basics)  
-- **Tools:** Git, GitHub, Postman, VS Code  
-
----
-
-### 📌 Featured Projects
-- **Personal Expense Tracker (Full Stack)**  
-  A Flask + SQLite web application to track daily expenses with full CRUD functionality.  
-  🔗 GitHub | 🔗 Live Demo  
-
-- **Python Data Projects**  
-  Data analysis and preprocessing projects focusing on real-world datasets and insights.  
-
-- **Zomato Clone (Frontend)**  
-  Responsive UI built using HTML, CSS, and JavaScript.
-
----
+- **Tools:** Git, GitHub, Postman, VS Code
+  
 
 ### 🎓 Experience & Internships
 - **Data Science Intern – CodTech IT Solutions**  
