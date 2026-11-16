@@ -9,6 +9,7 @@
 
 Computer Science graduate | Python & Java Developer | Data Analytics Enthusiast | Exploring AI/ML and Full-Stack Development. Passionate about coding, continuous learning, and transforming ideas into practical solutions.
 
+
 ## 🛠️ Technologies & Tools
 
 Languages: 
@@ -24,10 +25,6 @@ Data Science:
 Tools: 
      Git, GitHub, VS Code
 
----
-
-  
----
 
 ### 🎓 Experience & Internships
 - **Data Science Intern – CodTech IT Solutions**  
