@@ -30,15 +30,15 @@ Computer Science graduate | Python & Java Developer | Data Analytics Enthusiast 
 **Tools:**
 - Git, GitHub, VS Code
 
+### 🎯 Current Interests
 
-### 🎓 Experience & Internships
-- **Data Science Intern – CodTech IT Solutions**  
-  Worked on data analysis, preprocessing, and machine learning models using Python.  
+Artificial Intelligence & Machine Learning
+Data Analytics & Visualization
+Full-Stack Application Development
+Software Engineering & Problem Solving
 
-- **Application Developer (Mobile & Web) Intern – Rooman Technologies**  
-  Working on frontend (ReactJS) and backend development with Spring Boot and databases.
-
----
+### 📌 What I'm Working Towards
+Continuously learning, building practical projects, exploring emerging technologies, and contributing to meaningful software solutions.
 
 ### 🌐 Connect with Me
 - **💼 LinkedIn:** https://www.linkedin.com/in/mdileepkumar  
