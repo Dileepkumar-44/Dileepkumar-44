@@ -1,10 +1,5 @@
-<p align="center">
-<h1>  <strong>Hi there 👋, I'm Dileep Kumar</strong></p></h1>
-</p>
-<hr>
-<p align="center">
-  <h2><strong>Web Developer | AI & ML Enthusiast</strong></h2>
-</p>
+##                               <h1 align="center">Hi there 👋, I'm Dileep Kumar</h1>
+##                              <h2 align="center">Web Developer | AI & ML Enthusiast</h2>
 
 
 <!--
