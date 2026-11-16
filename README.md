@@ -1,11 +1,9 @@
 <p align="center">
-  <strong>Hi there 👋, I'm Dileep Kumar</strong>
+<h1>  <strong>Hi there 👋, I'm Dileep Kumar</strong></p></h1>
 </p>
-
 <hr>
-
 <p align="center">
-  <strong>Web Developer | AI & ML Enthusiast</strong>
+  <h2><strong>Web Developer | AI & ML Enthusiast</strong></h2>
 </p>
 
 
