@@ -9,25 +9,23 @@
 
 Computer Science graduate | Python & Java Developer | Data Analytics Enthusiast | Exploring AI/ML and Full-Stack Development. Passionate about coding, continuous learning, and transforming ideas into practical solutions.
 
+## 🛠️ Technologies & Tools
 
-- 🔭 I’m currently working on **full-stack and data-driven projects**
-- 🌱 I’m currently learning **Advanced Python, RESTful APIs, SQL, and Data Analytics**
-- 👯 I’m looking to collaborate on **Python, Data Analytics, and Web Development projects**
-- 🤔 I’m looking for help with **improving system design and scalable backend development**
-- 💬 Ask me about **Python, Flask, SQL, Data Analysis, and Full-Stack basics**
-- 📫 How to reach me: **dileepkumarmangali44@gmail.com**
-- 😄 Pronouns: **he/him**
-- ⚡ Fun fact: **I enjoy exploring real-world problems through data and code**
+Languages: 
+     Python, Java, SQL, JavaScript
+Frontend: 
+     HTML, CSS, React.js
+Backend:
+     Flask, Spring Boot, REST APIs
+Databases: 
+     MySQL, MongoDB, SQLite
+Data Science: 
+     Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+Tools: 
+     Git, GitHub, VS Code
 
 ---
 
-### 🛠️ Skills & Technologies
-- **Languages:** Python, Java, SQL, JavaScript  
-- **Frontend:** HTML, CSS, ReactJS  
-- **Backend:** Flask, Spring Boot, RESTful APIs  
-- **Databases:** SQLite, MySQL  
-- **Concepts:** Data Analysis, CRUD Operations, MVC, Microservices (Basics)  
-- **Tools:** Git, GitHub, Postman, VS Code
   
 ---
 
