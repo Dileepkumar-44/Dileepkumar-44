@@ -5,12 +5,12 @@
 <!--
 **Dileepkumar-44/Dileepkumar-44** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
 -->
-### 🔍 Get to Know Me
+## 🔍 Get to Know Me
 
 Computer Science graduate | Python & Java Developer | Data Analytics Enthusiast | Exploring AI/ML and Full-Stack Development. Passionate about coding, continuous learning, and transforming ideas into practical solutions.
----
 
-### 🛠️ Technologies & Tools
+
+## 🛠️ Technologies & Tools
 
 **Languages:**
 - Python, Java, SQL, JavaScript
@@ -30,17 +30,17 @@ Computer Science graduate | Python & Java Developer | Data Analytics Enthusiast 
 **Tools:**
 - Git, GitHub, VS Code
 
-### 🎯 Current Interests
+## 🎯 Current Interests
 
 Artificial Intelligence & Machine Learning
 Data Analytics & Visualization
 Full-Stack Application Development
 Software Engineering & Problem Solving
 
-### 📌 What I'm Working Towards
+## 📌 What I'm Working Towards
 Continuously learning, building practical projects, exploring emerging technologies, and contributing to meaningful software solutions.
 
-### 🌐 Connect with Me
+## 🌐 Connect with Me
 - **💼 LinkedIn:** https://www.linkedin.com/in/mdileepkumar  
 - **✉️ Email:** [](dileepkumarmangali44@gmail.com)dileepkumarmangali44@gmail.com
 
