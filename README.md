@@ -5,8 +5,10 @@
 <!--
 **Dileepkumar-44/Dileepkumar-44** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
 -->
+## 🔍 Get to Know Me
 
-I'm **M. Venkata Dileep Kumar**, a **B.Tech Computer Science and Engineering Graduate (2026)** with a strong interest in **Data Analytics, Full Stack Development, and AI applications**. I enjoy building practical projects and turning ideas into working solutions.
+Computer Science graduate | Python & Java Developer | Data Analytics Enthusiast | Exploring AI/ML and Full-Stack Development. Passionate about coding, continuous learning, and transforming ideas into practical solutions.
+
 
 - 🔭 I’m currently working on **full-stack and data-driven projects**
 - 🌱 I’m currently learning **Advanced Python, RESTful APIs, SQL, and Data Analytics**
