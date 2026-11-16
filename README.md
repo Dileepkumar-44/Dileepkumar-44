@@ -1,6 +1,5 @@
-##                                   Hi there 👋, I'm Dileep Kumar
-
-##                                 Web Developer | AI & ML Enthusiast                               
+##                               <h1 align="center>Hi there 👋, I'm Dileep Kumar
+##                              <h3 align="center>    Web Developer | AI & ML Enthusiast                               
 
 <!--
 **Dileepkumar-44/Dileepkumar-44** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
