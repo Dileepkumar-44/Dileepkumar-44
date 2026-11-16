@@ -11,18 +11,19 @@ Computer Science graduate | Python & Java Developer | Data Analytics Enthusiast 
 ---
 
 ## 🛠️ Technologies & Tools
-Languages: 
-     Python, Java, SQL, JavaScript
-Frontend: 
-     HTML, CSS, React.js
-Backend:
-     Flask, Spring Boot, REST APIs
-Databases: 
-     MySQL, MongoDB, SQLite
-Data Science: 
-     Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-Tools: 
-     Git, GitHub, VS Code
+
+**Languages:**
+- Python, Java, SQL, JavaScript
+**Frontend:**
+- HTML5, CSS3, React.js
+**Backend:**
+- Flask, Spring Boot, REST APIs
+**Databases:**
+- MySQL, MongoDB, SQLite
+**Data Science:**
+- Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+**Tools:**
+- Git, GitHub, VS Code
 
 
 ### 🎓 Experience & Internships
