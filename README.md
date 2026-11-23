@@ -1,5 +1,5 @@
 ###                              <h1 align="center">Hi there 👋, I'm Dileep Kumar</h1>
-###                              <h2 align="center">Web Developer | AI & ML Enthusiast</h2>
+###                              <h2 align="center">Web Developer | AI & ML Enthusiast | Data Analyst</h2>
 
 
 <!--
